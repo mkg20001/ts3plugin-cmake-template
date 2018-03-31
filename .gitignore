@@ -1,0 +1,5 @@
+cmake-build-*
+*.o
+pluginsdk
+.idea
+.eclipse
